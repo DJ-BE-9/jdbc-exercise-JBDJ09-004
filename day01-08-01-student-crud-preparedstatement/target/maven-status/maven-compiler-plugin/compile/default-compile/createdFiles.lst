@@ -1,0 +1,5 @@
+com\nhnacademy\jdbc\student\domain\Student.class
+com\nhnacademy\jdbc\student\repository\impl\PreparedStatementStudentRepository.class
+com\nhnacademy\jdbc\student\repository\StudentRepository.class
+com\nhnacademy\jdbc\util\DbUtils.class
+com\nhnacademy\jdbc\student\domain\Student$GENDER.class
